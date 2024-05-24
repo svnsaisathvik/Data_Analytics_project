@@ -18,7 +18,7 @@ Analysing the top 1000 movies data from IMDb data base and arriving to the possi
 Design an IMDb dashboard to analyse the data with top 1000 movies with their gross income,imdb rating,meta score etc to give the best Actor Director Combos based on different parameters.
 ## Features
 
-- Genre Analysis(First Page)-We are analysing all the genres with parameters such as Revenue By Genre,Rating By Genre,Meta_Score By Genre,No_of_votes,Certificates
+- Genre Analysis(First Page)-We are analysing all the genres with parameters such as Revenue By Genre,Rating By Genre,Meta_Score By Genre,No_of_votes,Certificates used the most and the least by charts
 - Movie Analysis(Second Page)- The Movie analysis has the imdb rating graph compared to all the movies in the Genre,Revenue of the movie compared to other movies in the Genre,No_of_votes of movie with all other genres,Meta Score toanalyse the movies performance.
 - Actor Analysis(Third Page)- This page consists of the genres the actors has worked and the movies to select in which the present actor has worked.It has the best Actor-Director combos for different parameters.The best combo for IMDb rating,Best Combo for Meta_Score and Best Combo for the gross revenue.And finally considering all these parameters(IMDb rating,Meta_Score) and gives the overall best Actor-Director Combo.  
 ## TechStack
