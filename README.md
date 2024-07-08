@@ -62,7 +62,7 @@ Go to the project directory and open IMDB_top1000_final_final.pbix file in power
 If you find any bug in this project then you can post that bug in the issues section in GitHub itself
 
 ## Issues we are currently working with:
-- Live scraping of the data from Imdb database.
+- Live scraping of the data from Imdb database.<br><br>
 
 
 
