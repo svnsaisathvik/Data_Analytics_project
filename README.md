@@ -36,7 +36,6 @@ For better understanding of the Dashboard
     import requests
     from bs4 import BeautifulSoup
     import csv
-    import time
     from urllib.robotparser import RobotFileParser
 ```
 
